@@ -10,6 +10,15 @@ Bash scripts combine terminal commands and logic into programs that can:
 #### How to use this program ?
 1. you should have git bash installed , you also will need a text editor.
 2. git clone <this repo link>
-3. each file 
+3. to excute the program run :
+ > bash five.sh
+4. If this didn't work try to run :
+ ```
+ ./five.sh 
+ ```
+5. you may need to add excutable permission, to do so run in your terminal this command"
+ ```  
+ chmod +x <filename>
+ ```
 
 
