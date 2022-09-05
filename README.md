@@ -10,5 +10,6 @@ Bash scripts combine terminal commands and logic into programs that can:
 #### How to use this program ?
 1. you should have git bash installed , you also will need a text editor.
 2. git clone <this repo link>
+3. each file 
 
 
