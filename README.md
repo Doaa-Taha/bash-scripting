@@ -1,6 +1,6 @@
 # Bash scripting
 this is one of the courses at freeCodeCamp to learn how to make a program using gitbash .
-this is a simple program to get start understanding bash commands and keywords .
+this is a simple program to start understanding bash commands and keywords .
 
 
 ## Why is it important to learn bash scripting? 
